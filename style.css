@@ -91,6 +91,11 @@ a {
   font-size: 120%;
 }
 
+.formm {
+  display: flex;
+  margin: 1%;
+}
+
 form {
   margin: 0 auto;
   width: 400px;
@@ -163,5 +168,13 @@ flex-direction: row;
   text-align: center;
   font-size: 130%;
   flex-wrap: wrap;
+  margin: 1%;
+}
+
+h5 {
+  margin: 1%;
+}
+
+h2 {
   margin: 1%;
 }
